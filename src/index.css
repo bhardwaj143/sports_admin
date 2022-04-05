@@ -1,0 +1,14 @@
+.table td,
+.table th {
+  overflow: hidden;
+}
+
+.img {
+  height: 300px;
+  width: 300px;
+  display: inline-block
+}
+
+.error {
+  color: red;
+}
